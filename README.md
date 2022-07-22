@@ -22,3 +22,12 @@ long: the sum of all array elements
 # sample output
 # 5000000015
 
+# 3. diagonalDifference_Array.py
+For example, the square matrix  is shown below:
+# sample input 
+# 1 2 3
+# 4 5 6
+# 9 8 9 
+The left-to-right diagonal 1+5+9 = 15 . The right to left diagonal 3+5+9= 17 . Their absolute difference is |15-17|=2
+sample output
+# 2

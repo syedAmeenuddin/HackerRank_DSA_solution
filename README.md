@@ -12,7 +12,7 @@ If a[i] = b[i], then neither person receives a point.
 # 5 6 7
 # 3 6 10
 # sample output
-# 1 1
+# a = 1 , b = 1  return 1 1
 
 # 2. SumOfAll_Array.py
 long: the sum of all array elements
